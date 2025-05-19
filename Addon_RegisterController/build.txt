@@ -1,0 +1,4 @@
+rd /s /q build
+node-gyp clean
+node-gyp configure
+node-gyp build

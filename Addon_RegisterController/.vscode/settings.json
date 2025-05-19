@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.tls": "html",
+        "string": "cpp"
+    }
+}
